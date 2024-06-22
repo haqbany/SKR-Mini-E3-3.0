@@ -46,5 +46,6 @@ Best regards,
 
 RH DAV
 
-If you would like to support this project, you can donate via PayPal: Donate
+If you would like to support this project, you can donate via PayPal: [Donate](https://paypal.me/Makerbuild3d?country.x=BH&locale.x=en_US)
+
 
