@@ -68,3 +68,39 @@ RH DAV
 If you like this, you can buy me a drink here: https://paypal.me/Makerbuild3d
 
 Let me know if there’s anything else you need!
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PrintPro Updates Subscription</title>
+</head>
+<body>
+    <h1>PrintPro Updates Subscription</h1>
+    <div id="paypal-button-container-P-11M99637G3463803FM2C4HDQ"></div>
+    <script src="https://www.paypal.com/sdk/js?client-id=AdzmlXIhwOJ8bCuW7yn3nmNhh0FN9Y_RsZhW6FnPxqdBainf2hIjz36xGG9ABT4N6V1iQEdKeoxXYcqu&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
+    <script>
+      paypal.Buttons({
+          style: {
+              shape: 'rect',
+              color: 'gold',
+              layout: 'vertical',
+              label: 'subscribe'
+          },
+          createSubscription: function(data, actions) {
+            return actions.subscription.create({
+              /* Creates the subscription */
+              plan_id: 'P-11M99637G3463803FM2C4HDQ'
+            });
+          },
+          onApprove: function(data, actions) {
+            alert(data.subscriptionID); // Optional success message for the subscriber
+          }
+      }).render('#paypal-button-container-P-11M99637G3463803FM2C4HDQ'); // Renders the PayPal button
+    </script>
+</body>
+</html>
