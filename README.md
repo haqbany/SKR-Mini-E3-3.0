@@ -53,8 +53,11 @@ IMPORTANT
 Inside this package, you will find two firmware versions:
 
 Ender 3v2 - Tested and verified by me.
+
 Ender 3v2 with Sprite Extroder verified by user " roman78-r "
+
 CR-10 - Tested but not verified on an actual CR-10 printer.
+
 Please report any bugs or issues you encounter with the CR-10 firmware, and I will work to fix them promptly.
 
 For custom builds or additional support, please contact me.
