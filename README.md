@@ -72,26 +72,3 @@ Let me know if there’s anything else you need!
 
 
 
-# PrintPro Updates Subscription
-
-<div id="paypal-button-container-P-11M99637G3463803FM2C4HDQ"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AdzmlXIhwOJ8bCuW7yn3nmNhh0FN9Y_RsZhW6FnPxqdBainf2hIjz36xGG9ABT4N6V1iQEdKeoxXYcqu&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'subscribe'
-      },
-      createSubscription: function(data, actions) {
-        return actions.subscription.create({
-          /* Creates the subscription */
-          plan_id: 'P-11M99637G3463803FM2C4HDQ'
-        });
-      },
-      onApprove: function(data, actions) {
-        alert(data.subscriptionID); // Optional success message for the subscriber
-      }
-  }).render('#paypal-button-container-P-11M99637G3463803FM2C4HDQ'); // Renders the PayPal button
-</script>
