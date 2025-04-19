@@ -65,14 +65,8 @@ For custom builds or additional support, please contact me.
 Best regards,
 RH DAV
 
-If you like this, you can buy me a drink here: [https://paypal.me/Makerbuild3d](https://www.paypal.com/ncp/payment/9LN4PPKB2MD8U)
-
-Let me know if there’s anything else you need!
-<style>.pp-9LN4PPKB2MD8U{text-align:center;border:none;border-radius:0.25rem;min-width:11.625rem;padding:0 2rem;height:2.625rem;font-weight:bold;background-color:#FFD140;color:#000000;font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.25rem;cursor:pointer;}</style>
-<form action="https://www.paypal.com/ncp/payment/9LN4PPKB2MD8U" method="post" target="_blank" style="display:inline-grid;justify-items:center;align-content:start;gap:0.5rem;">
-  <input class="pp-9LN4PPKB2MD8U" type="submit" value="Buy Now" />
-  <img src=https://www.paypalobjects.com/images/Debit_Credit_APM.svg alt="cards" />
-  <section style="font-size: 0.75rem;"> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
-</form>
+If you like this, wanna know more about me or support my work
+[![Buy Me a Pizza](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-Support%20My%20Work-orange?style=for-the-badge&logo=bitcoin)](https://gravatar.com/haqbany?utm_source=share_profile)
+[![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-Contact%20Me-blue?style=for-the-badge&logo=gmail)](https://gravatar.com/haqbany?utm_source=share_profile)
 
 <!-- #BIGTREETOUCH #Ender3V2 #Ender3 #MarlinFirmware #HaqbanyFirmware #Ender3Firmware #UpgradeFirmware #SKRMini #SKRMiniV3 #BTTFirmware #3DPrintingUpgrades #TechInnovations #PrinterEnhancements #FirmwareUpdates #PrintingSolutions #SKRMiniE3V3 #Ender3Pro #Ender3Mods #3DPrinterFirmware #TechUpgrades #DIYPrintingProjects #EnhancedPerformance #StablePrints #3DPrintingCommunity #CustomFirmware #PrintWithPrecision #Ender3Mini #Ender3Max #AdvancedFirmware #TechSavvyPrinting #ElevateYourPrints #FirmwareMagic #InnovativeUpgrades #PrintWithEase #FirmwareTweaks #UpgradeYourPrintGame #MarlinUpdates #FirmwareCustomization #SKRMiniUpgrades #BTTMagic #Ender3Perfection #FirmwareMastery #PrintLikeAPro #Ender3Excellence #SKRMiniMagic #CustomPrintingSolutions #FirmwareWonders #PrintWithQuality #Ender3Masterpiece #HaqbanyMagic #TechForwardPrinting #SRKMiniFirmware #BTTUpgrades #Ender3Innovation #MarlinMagic #FirmwareGenius #PrintingPerfection #UpgradeYourExperience #Ender3Journey #CustomizeYourPrints #SKRMiniE3V3Magic #TechEnhancements #FirmwareGenius #PrintBeyondLimits #Ender3Unleashed #FirmwareExploration #SRKMini3V3 #Ender3Printing #PrintWithPassion #HaqbanyInnovations #Ender3PrintingGoals #FirmwareRevolution #Ender3Tech #SRKMiniUpgrade #PrintingInnovation #MarlinMagic #SRKMini3V3Magic #FirmwareExploration #Ender3Unleashed #FirmwareMagic #TechForwardPrinting #PrintingSolutions #Ender3Pro #Ender3Mods #3DPrinterFirmware #TechUpgrades #DIYPrintingProjects #EnhancedPerformance #StablePrints #3DPrintingCommunity #CustomFirmware -->
