@@ -65,7 +65,7 @@ For custom builds or additional support, please contact me.
 Best regards,
 RH DAV
 
-If you like this, wanna know more about me or support my work
+
 [![Buy Me a Pizza](https://img.shields.io/badge/Buy%20Me%20a%20Pizza-Support%20My%20Work-orange?style=for-the-badge&logo=bitcoin)](https://gravatar.com/haqbany?utm_source=share_profile)
 [![Get in Touch](https://img.shields.io/badge/Get%20in%20Touch-Contact%20Me-blue?style=for-the-badge&logo=gmail)](https://gravatar.com/haqbany?utm_source=share_profile)
 
